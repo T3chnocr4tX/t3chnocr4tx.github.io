@@ -3,8 +3,11 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
+
+***
 ![my cover (1)](https://github.com/user-attachments/assets/dd4bf7cf-7283-4e4f-b98d-9b02244feb5b)
 
+***
 `Rick`: Hmm... where am I?
 
 `Morty`: You know, Rick, I think we’re on the About page.
