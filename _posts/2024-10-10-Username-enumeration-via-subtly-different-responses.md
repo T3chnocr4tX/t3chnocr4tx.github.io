@@ -1,6 +1,5 @@
 ---
 title: "Username enumeration via subtly different responses"
-tags: [Web security academy]
 publish: true
 ---
 
