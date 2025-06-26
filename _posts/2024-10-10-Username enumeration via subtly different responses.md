@@ -1,7 +1,11 @@
-***
-# Authentication
-## Username enumeration via subtly different responses
-***
+---
+title: "Username enumeration via subtly different responses"
+date: 2024-10-10
+categories: [Web Security Academy]
+tags: [Portswigger lab]
+layout: post
+publish: true
+---
 
 Yo, people!😎 It's been a while. Here is another lab solution based on PortSwigger Labs. This lab is subtly vulnerable to username enumeration and password brute-force attacks. It has an account with a predictable username and password, which can be found in the following wordlists. Our task is to find the valid credentials and log in. Let's go, guys!
 
