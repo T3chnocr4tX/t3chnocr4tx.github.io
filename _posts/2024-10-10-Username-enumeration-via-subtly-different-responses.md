@@ -5,6 +5,7 @@ categories: [Web Security Academy]
 tags: [Portswigger lab]
 layout: post
 publish: true
+image: https://github.com/user-attachments/assets/e5afe668-554f-49f1-93ff-b80660446e56
 ---
 
 # Authentication
