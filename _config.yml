@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/user-attachments/assets/9565bc34-bf06-4f04-8f70-1f3f1aae8c9f"
+avatar: "https://pbs.twimg.com/profile_images/1911690195109322752/uZu8y-kY_400x400.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
