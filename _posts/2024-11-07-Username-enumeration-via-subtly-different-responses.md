@@ -2,7 +2,7 @@
 title: Username enumeration via subtly different responses
 description: >-
   This lab is subtly vulnerable to username enumeration and password brute-force attacks. It has an account with a predictable username and password, which can be found in the following wordlists.
-date: 2019-08-09 20:55:00 +0800
+date: 2024-11-07 20:55:00 +0800
 categories: [Web Security Academy Labs]
 tags: [username enumeration, Authentication]
 pin: false
