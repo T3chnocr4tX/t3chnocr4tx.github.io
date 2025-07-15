@@ -7,9 +7,6 @@ tags: [Access Control, Parameter]
 pin: true
 math: true
 mermaid: true
-image:
-  path: https://static.vecteezy.com/system/resources/previews/025/463/773/non_2x/hacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg
-  alt: password-reset-poisoning
 ---
 
 ***
