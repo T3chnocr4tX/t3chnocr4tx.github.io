@@ -2,7 +2,7 @@
 title: Bash Scripting
 description: >-
   In this article, we'll explore Bash scripting together, where I'll share what I've learned. While I'm not an expert, I can help guide you through everything you need to know about Bash scripting by sharing my insights.
-date: 2019-08-09 20:55:00 +0800
+date: 2024-02-18 20:55:00 +0800
 categories: [Scripting]
 tags: [Linux, Bash, Command Line]
 pin: false
