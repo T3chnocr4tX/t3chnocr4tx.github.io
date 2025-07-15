@@ -21,7 +21,6 @@ Hola! :wave: Let's begin writing a simple Nmap script. Nmap is like a detective 
 
 Nmap is used for network exploration and security auditing. It helps users discover devices on a network, identify open ports, and analyze network security.
 
-![4289732-middle](https://github.com/T3chnocr4t/Linux/assets/115868619/7e6451c2-b47b-4ffd-ae5c-3076ffc2a7f5)
 
 ## Scripts
 
