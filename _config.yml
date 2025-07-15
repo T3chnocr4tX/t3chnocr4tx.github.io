@@ -9,27 +9,27 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Africa/Lagos
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: T3chnocr4tX # the main title
 
-tagline: Secure Your Apps And APIs # it will display as the subtitle
+tagline: Practical tips to secure your apps & APIs. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Discover practical techniques to identify vulnerabilities in apps and APIs, plus expert tips to secure them. Stay ahead with actionable insights on app security. #AppSecurity #APISecurity #VulnerabilityHunting #CybersecurityTips #SecureCoding #WebAppProtection #APIVulnerabilities #PracticalSecurity #CyberSec #SecureDevelopment
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://t3chnocr4tx.github.io"
 
 github:
-  username: t3chnocr4tx # change to your GitHub username
+  username: T3chnocr4tx # change to your GitHub username
 
 twitter:
-  username: t3chnocr4tx # change to your Twitter username
+  username: T3chnocr4tx # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: harrisonwells463@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/t3chnocr4tx # change to your Twitter homepage
+    - https://twitter.com/t3chnocr4tx # change to your Twitter homepage
     - https://github.com/t3chnocr4tx # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -95,10 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: https://pbs.twimg.com/profile_images/1911690195109322752/uZu8y-kY_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
