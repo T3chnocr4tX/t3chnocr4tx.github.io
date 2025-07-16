@@ -7,6 +7,9 @@ categories: [Web Security Academy Labs]
 tags: [Access Control, Parameter, API]
 pin: false
 math: true
+image:
+  path: https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/233707e5-1d04-409f-b413-33766ae43a5b
+  alt:  Access control
 mermaid: true
 ---
 
@@ -16,7 +19,7 @@ mermaid: true
 
 Guys 👋 welcome back! Here is another write-up on a web security academy lab. This lab contains an access control vulnerability where sensitive information is leaked in the body of a redirect response. Let's get started and exploit it.
 
-![access-control](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/233707e5-1d04-409f-b413-33766ae43a5b)
+
 
 ***
 ### End Goals :~#
