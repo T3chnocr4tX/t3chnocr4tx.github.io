@@ -8,7 +8,7 @@ tags: [Linux, nmap, Command Line]
 image:
   path: https://github.com/T3chnocr4t/Linux/assets/115868619/7e6451c2-b47b-4ffd-ae5c-3076ffc2a7f5
   alt: namp
-pin: true
+pin: false
 ---
 
 
