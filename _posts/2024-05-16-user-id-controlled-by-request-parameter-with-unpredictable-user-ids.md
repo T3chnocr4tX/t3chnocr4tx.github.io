@@ -50,6 +50,6 @@ Hola 👋 welcome back. This is the Lab 4# [User ID controlled by request parame
 ![2024-05-16_19-22](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1f9d95b4-c91b-43a5-970e-2000c0c85967)
 
 
-That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4tx). Feel free to DM me if you have any issues with my write-up. Thanks!
 
-[Go Back Home](https://t3chnocr4t.github.io/)
+[Go Back Home](https://t3chnocr4tx.github.io/)

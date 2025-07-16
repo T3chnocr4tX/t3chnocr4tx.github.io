@@ -1,9 +1,10 @@
 ---
-title: User Role Controlled By Request Parameter
-description: In this lab, we are access the admin panel and delete the user Carlos.
-date: 2024-05-24 11:33:00 +0800
+title: User ID controlled by request parameter with data leakage in redirect
+description: >-
+  This lab contains an access control vulnerability where sensitive information is leaked in the body of a redirect response.
+date: 2024-07-03 11:33:00 +0800
 categories: [Web Security Academy Labs]
-tags: [Access Control, Parameter]
+tags: [Access Control, Parameter, API]
 pin: false
 math: true
 mermaid: true
@@ -42,6 +43,6 @@ Guys 👋 welcome back! Here is another write-up on a web security academy lab. 
 
 
 
-That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4tx). Feel free to DM me if you have any issues with my write-up. Thanks!
 
 [Go Back Home](https://t3chnocr4tx.github.io/)

@@ -41,6 +41,6 @@ Welcome 👋 back , friends! Here is my write-up on [2FA simple bypass](https://
 
 ![2fa6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/19b17e60-a3cd-48c4-ba1b-f7592968c556)
 
-That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4tx). Feel free to DM me if you have any issues with my write-up. Thanks!
 
-[Go Back Home](https://t3chnocr4t.github.io/)
+[Go Back Home](https://t3chnocr4tx.github.io/)
