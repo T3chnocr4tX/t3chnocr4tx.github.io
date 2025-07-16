@@ -8,7 +8,7 @@ tags: [Access Control, Privilege escalation]
 pin: false
 math: true
 image:
-  path: /assets/img/unprotected.jpg
+  path: assets/img/unprotected.jpg
   alt:  Access control
 mermaid: true
 ---
