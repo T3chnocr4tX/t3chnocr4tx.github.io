@@ -13,8 +13,8 @@ pin: true
 
 ***
 ## Hacker101 CTF
-## Lab #1: A little something to get you started
-## Difficulty: Trivial
+### Lab #1: A little something to get you started
+### Difficulty: Trivial
 
 Hey guys, how’s it going? So here today with some write-up on Hacker101 labs. Let’s solve this real quick
 
@@ -33,7 +33,6 @@ Then something just stuck in my brain to check the source code, and I did.
 Then navigating to the path, I found the flag.
 
 ![final](https://github.com/user-attachments/assets/952f9280-dda1-4596-a931-4f54e5bc8ea0)
-
 
 Submitted it, and let’s move on, guys that’s it.
 
