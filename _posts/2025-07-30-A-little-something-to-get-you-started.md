@@ -1,7 +1,7 @@
 ---
 title: A little something to get you started
 description: >-
-  You're going to be searching for the flags, using every skill and tool in your arsenal. Flags are placed in various locations -- they might be in a file, in the database, stuck into source code, or otherwise -- and your goal is to hunt them all down. Each flag looks something like ^FLAG^37ae568362f974017fa575f08cd215044cd6bb395c3f5e5e293ee5324ba6769c$FLAG$, so you'll know the instant you see one.
+  You're going to be searching for the flags, using every skill and tool in your arsenal. Flags are placed in various locations -- they might be in a file, in the database, stuck into source code, or otherwise -- and your goal is to hunt them all down.
 date: 2025-07-30 20:55:00 +0800
 categories: [Hacker101 CTF]
 tags: [Source Code]
