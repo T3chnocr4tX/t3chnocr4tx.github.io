@@ -35,10 +35,9 @@ Then I found a path in the JS file where it appears that the web application ret
 
 ![3](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/82b31b0e-a77c-40aa-aa7a-83a686533089)
 
-So, I checked my cookies and saw some long value in the user ID, but how can this be guessable?
+- So, I checked my cookies and saw some long value in the user ID, but how can this be guessable?
 But, you know, thinking in my head, let me just copy this path and add a numerical value. then it appeared I could see some information.
 
-![test](https://github.com/user-attachments/assets/79a5e956-b415-45dd-82e9-817f1bce64f2)
 
 Then I sent the request to automate enumeration, thinking maybe I could get other users' information. Then I found 7 people. Wow, what an IDOR!
 
