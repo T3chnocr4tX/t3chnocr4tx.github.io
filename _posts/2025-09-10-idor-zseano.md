@@ -25,11 +25,11 @@ This afternoon, I was like, "Let me practice some labs on IDOR." I just opened m
 
 With that being said, log in to your account. At first, when I logged in, I tried to look for some button where I could click but found nothing. I was just like, "What the...?"
 
-![1](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/bf7a1d94-e207-40de-bbcf-6daf1aa85a19)
+![bug11](https://github.com/user-attachments/assets/57e139a3-8e11-458c-b859-39ce1bbe3334)
 
 So, I checked my web proxy and found a JS extension. So, let’s take a look at it.
 
-![2](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/dd8df926-112e-43fe-8872-566babb07be7)
+![bug4](https://github.com/user-attachments/assets/83676803-0fe4-4b6b-9fc3-cf4eb525cb08)
 
 Then I found a path in the JS file where it appears that the web application retrieves a user ID from a cookie and uses it to fetch user data from a server.
 
@@ -38,11 +38,11 @@ Then I found a path in the JS file where it appears that the web application ret
 So, I checked my cookies and saw some long value in the user ID, but how can this be guessable?
 But, you know, thinking in my head, let me just copy this path and add a numerical value. then it appeared I could see some information.
 
-![4](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/952056ea-aeb8-41d7-994a-1cc376cd96cd)
+![test](https://github.com/user-attachments/assets/79a5e956-b415-45dd-82e9-817f1bce64f2)
 
 Then I sent the request to automate enumeration, thinking maybe I could get other users' information. Then I found 7 people. Wow, what an IDOR!
 
-![5](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/860679c8-ce19-4e07-b295-0401913daf10)
+![bug62](https://github.com/user-attachments/assets/f6211f72-a2c6-4936-b391-62f2610d4862)
 
 So, that’s it, guys. The tip is to just use the application like a normal user, then check the JS file to understand the application.
 Catch you guys later, I’ll be dropping more blogs.
