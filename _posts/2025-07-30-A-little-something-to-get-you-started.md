@@ -17,21 +17,21 @@ image:
 
 Hey guys, how’s it going? So here today with some write-up on Hacker101 labs. Let’s solve this real quick
 
-![1](https://github.com/user-attachments/assets/a8cb875d-f790-4713-bdf9-498544d08433)
+![1](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/a8cb875d-f790-4713-bdf9-498544d08433)
 
 So tbh, when I checked the labs, there was no description and no tips—just check the web, like try every possible thing. Like adding the robots.txt path, maybe I could find some path, but nothing.
 
-![2](https://github.com/user-attachments/assets/30dfc362-c571-4376-921d-c3658bbb8c4c)
+![2](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/30dfc362-c571-4376-921d-c3658bbb8c4c)
 
 Then something just stuck in my brain to check the source code, and I did.
 
 - So I found a path.
 
-![h](https://github.com/user-attachments/assets/1b60cb8b-b5f4-488c-aba6-370cd83b3579)
+![h](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/1b60cb8b-b5f4-488c-aba6-370cd83b3579)
 
 Then navigating to the path, I found the flag.
 
-![final](https://github.com/user-attachments/assets/952f9280-dda1-4596-a931-4f54e5bc8ea0)
+![final](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/952f9280-dda1-4596-a931-4f54e5bc8ea0)
 
 Submitted it, and let’s move on, guys that’s it.
 
