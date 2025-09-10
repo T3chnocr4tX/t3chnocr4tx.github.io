@@ -25,24 +25,24 @@ This afternoon, I was like, "Let me practice some labs on IDOR." I just opened m
 
 With that being said, log in to your account. At first, when I logged in, I tried to look for some button where I could click but found nothing. I was just like, "What the...?"
 
-![1](https://github.com/user-attachments/assets/bf7a1d94-e207-40de-bbcf-6daf1aa85a19)
+![1](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/bf7a1d94-e207-40de-bbcf-6daf1aa85a19)
 
 So, I checked my web proxy and found a JS extension. So, let’s take a look at it.
 
-<img width="1212" height="730" alt="Image" src="https://github.com/user-attachments/assets/dd8df926-112e-43fe-8872-566babb07be7" />
+![2](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/dd8df926-112e-43fe-8872-566babb07be7)
 
 Then I found a path in the JS file where it appears that the web application retrieves a user ID from a cookie and uses it to fetch user data from a server.
 
-<img width="1366" height="235" alt="Image" src="https://github.com/user-attachments/assets/82b31b0e-a77c-40aa-aa7a-83a686533089" />
+![3](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/82b31b0e-a77c-40aa-aa7a-83a686533089)
 
 So, I checked my cookies and saw some long value in the user ID, but how can this be guessable?
 But, you know, thinking in my head, let me just copy this path and add a numerical value. then it appeared I could see some information.
 
-<img width="1366" height="233" alt="Image" src="https://github.com/user-attachments/assets/952056ea-aeb8-41d7-994a-1cc376cd96cd" />
+![4](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/952056ea-aeb8-41d7-994a-1cc376cd96cd)
 
 Then I sent the request to automate enumeration, thinking maybe I could get other users' information. Then I found 7 people. Wow, what an IDOR!
 
-<img width="991" height="598" alt="Image" src="https://github.com/user-attachments/assets/860679c8-ce19-4e07-b295-0401913daf10" />
+![5](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/860679c8-ce19-4e07-b295-0401913daf10)
 
 So, that’s it, guys. The tip is to just use the application like a normal user, then check the JS file to understand the application.
 Catch you guys later, I’ll be dropping more blogs.
