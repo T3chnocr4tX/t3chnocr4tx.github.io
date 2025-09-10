@@ -18,6 +18,7 @@ pin: true
 
 ***
 This afternoon, I was like, "Let me practice some labs on IDOR." I just opened my laptop and searched for some IDOR stuff. Then I found these bug bounty hunter labs by Zseano on IDOR. So, I solved the labs, and let’s take a look at ‘em. To be honest, the labs just give you some description—they don’t even give you pointers like “look for flags” or anything, kinda similar to Hacker101 CTF. I think the purpose of the labs is to teach manual testing. So, let’s leave that rant aside. Here’s the lab description if you wanna follow along...... [idor](https://www.bugbountyhunter.com/challenge?id=10)
+
 ***
 
 
