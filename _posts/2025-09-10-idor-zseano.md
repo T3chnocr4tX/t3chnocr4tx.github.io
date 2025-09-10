@@ -19,21 +19,13 @@ pin: true
 This afternoon, I was like, "Let me practice some labs on IDOR." I just opened my laptop and searched for some IDOR stuff. Then I found these bug bounty hunter labs by Zseano on IDOR. So, I solved the labs, and let’s take a look at ‘em. To be honest, the labs just give you some description—they don’t even give you pointers like “look for flags” or anything, kinda similar to Hacker101 CTF. I think the purpose of the labs is to teach manual testing. So, let’s leave that rant aside. Here’s the lab description if you wanna follow along...... [idor](https://www.bugbountyhunter.com/challenge?id=10)
 ***
 
-```
-We've created a basic web application called "HackerPhotos" to hightlight some awesome hacker-tagged photography. It is just in BETA and we'd love for you to give it a try and make sure we've not made any mistakes!
 
-You can login to the challenge with the following credentials:
+**_We've created a basic web application called "HackerPhotos" to hightlight some awesome hacker-tagged photography. It is just in BETA and we'd love for you to give it a try and make sure we've not made any mistakes!_**
 
-Username: phototest Password: phototest1
-
-Please note the photos are real photos from Pexel.com. We have credited each author on their photos. (other information you may find is not real)
-
-
-```
 
 With that being said, log in to your account. At first, when I logged in, I tried to look for some button where I could click but found nothing. I was just like, "What the...?"
 
-<img width="1366" height="631" alt="Image" src="https://github.com/user-attachments/assets/bf7a1d94-e207-40de-bbcf-6daf1aa85a19" />
+![1](https://github.com/user-attachments/assets/bf7a1d94-e207-40de-bbcf-6daf1aa85a19)
 
 So, I checked my web proxy and found a JS extension. So, let’s take a look at it.
 
