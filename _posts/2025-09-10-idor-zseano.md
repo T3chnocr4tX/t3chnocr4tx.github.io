@@ -33,7 +33,7 @@ So, I checked my web proxy and found a JS extension. So, let’s take a look at 
 
 Then I found a path in the JS file where it appears that the web application retrieves a user ID from a cookie and uses it to fetch user data from a server.
 
-![3](https://github.com/T3chnocr4tx/T3chnocr4tx.github.io/assets/82b31b0e-a77c-40aa-aa7a-83a686533089)
+![3](https://github.com/user-attachments/assets/98c3b6cc-24be-41ad-b006-7a0187c75c88)
 
 - So, I checked my cookies and saw some long value in the user ID, but how can this be guessable?
 But, you know, thinking in my head, let me just copy this path and add a numerical value. then it appeared I could see some information.
